@@ -55,9 +55,13 @@ public class Course {
 	public Time getmLessonEnd() {
 		return mLessonEnd;
 	}
+	
 	public void setmLessonEnd(Time mLessonEnd) {
 		this.mLessonEnd = mLessonEnd;
 	}
 	
+	public void setmLessonEnd2(Time mLessonEnd) {
+		this.mLessonEnd = mLessonEnd;
+	}
 	
 }
